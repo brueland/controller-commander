@@ -1,0 +1,50 @@
+Analog Sticks:
+
+'ABS_X': Left stick X-axis
+'ABS_Y': Left stick Y-axis
+'ABS_RX': Right stick X-axis
+'ABS_RY': Right stick Y-axis
+
+
+D-Pad:
+
+'ABS_HAT0X': D-pad X-axis
+'ABS_HAT0Y': D-pad Y-axis
+
+
+Triggers:
+
+'ABS_Z': Left trigger
+'ABS_RZ': Right trigger
+
+
+Face Buttons:
+
+'BTN_SOUTH': A button (Xbox) / X button (PlayStation)
+'BTN_EAST': B button (Xbox) / Circle button (PlayStation)
+'BTN_WEST': X button (Xbox) / Square button (PlayStation)
+'BTN_NORTH': Y button (Xbox) / Triangle button (PlayStation)
+
+
+Shoulder Buttons:
+
+'BTN_TL': Left bumper
+'BTN_TR': Right bumper
+
+
+Stick Buttons:
+
+'BTN_THUMBL': Left stick button
+'BTN_THUMBR': Right stick button
+
+
+Center Buttons:
+
+'BTN_SELECT': Back button (Xbox) / Share button (PlayStation)
+'BTN_START': Start button (Xbox) / Options button (PlayStation)
+'BTN_MODE': Xbox button / PS button
+
+
+Additional Buttons (may vary by controller):
+
+'BTN_TRIGGER_HAPPY1', 'BTN_TRIGGER_HAPPY2', etc.: Extra buttons
